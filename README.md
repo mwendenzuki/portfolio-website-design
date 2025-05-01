@@ -1,9 +1,11 @@
 # 🌐 Web Development Group Project – Portfolio Website
 
 ## 🔖 Project Title
+
 **UI Developer Portfolio Clone**
 
 ## 👥 Group Members
+
 - Alois Maingi
 - Mwengi Mutuku
 - Ruth Mwende
@@ -64,17 +66,21 @@ portfolio-project/ │ ├── index.html ├── css/ │ └── style.c
 
 ---
 
-## 📷 Demo (Screenshots or Link)
+## 📷 Demo (Link)
+
+## Deployed at:
+
+https://webportfoliodesign.netlify.app/
+
 ---
 
 ## 📌 How to Run Locally
 
 1. Clone the repository:
-git clone http://github.com/mwendenzuki/portfolio-website-design
-
+   git clone http://github.com/mwendenzuki/portfolio-website-design
 
 2. Navigate to the project folder:
-cd portfolio-project
+   cd portfolio-project
 
 3. Open `index.html` in your browser.
 
@@ -95,22 +101,21 @@ cd portfolio-project
 
 ## 📊 Evaluation Rubric Checklist
 
-| Criteria                    | Achieved? |
-|----------------------------|-----------|
-| ✅ Functionality Met       | ✅         |
-| ✅ Code Quality            | ✅         |
-| ✅ UI/UX & Responsiveness  | ✅         |
-| ✅ Collaboration           | ✅         |
-| ✅ Creativity & Extras     | ✅         |
-| ✅ Presentation & README   | ✅         |
+| Criteria                  | Achieved? |
+| ------------------------- | --------- |
+| ✅ Functionality Met      | ✅        |
+| ✅ Code Quality           | ✅        |
+| ✅ UI/UX & Responsiveness | ✅        |
+| ✅ Collaboration          | ✅        |
+| ✅ Creativity & Extras    | ✅        |
+| ✅ Presentation & README  | ✅        |
 
 ---
 
 ## 🙌 Acknowledgements
 
 - [W3Layouts](https://w3layouts.com) for the design inspiration
-- 
----
+- ***
 
 ## 🔗 Submission
 
